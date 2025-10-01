@@ -1,0 +1,82 @@
+[
+  {
+    "codigo": "2022101",
+    "identificacion": "108824516",
+    "nombre": "Camila Fernández Rojas",
+    "grado": 10,
+    "grupo": "A",
+    "estado": "En curso"
+  },
+  {
+    "codigo": "2122102",
+    "identificacion": " 109824529",
+    "nombre": "Juan Felipe Montoya Ríos",
+    "grado": 10,
+    "grupo": "A",
+    "estado": "Aprobado"
+  },
+  {
+    "codigo": "2025098",
+    "identificacion": " 108947699",
+    "nombre": "Luisa María Cruz Hernández",
+    "grado": 10,
+    "grupo": "B",
+    "estado": "Reprobado"
+  },
+  {
+    "codigo": "2022104",
+    "identificacion": "108824517",
+    "nombre": "Andrés Mejía López",
+    "grado": 10,
+    "grupo": "C",
+    "estado": "En curso"
+  },
+  {
+    "codigo": "2022105",
+    "identificacion": "108824518",
+    "nombre": "Valentina Pérez Soto",
+    "grado": 9,
+    "grupo": "A",
+    "estado": "Aprobado"
+  },
+  {
+    "codigo": "2022106",
+    "id": "109824530",
+    "nombre": "Sebastián Ramírez Gómez",
+    "grado": 9,
+    "grupo": "B",
+    "estado": "Reprobado"
+  },
+  {
+    "codigo": "2022107",
+    "identificacion": "109824531",
+    "nombre": "Mariana Torres Jiménez",
+    "grado": 9,
+    "grupo": "C",
+    "estado": "En curso"
+  },
+  {
+    "codigo": "2022108",
+    "identificacion": "108824519",
+    "nombre": "Santiago Hernández Quintero",
+    "grado": 8,
+    "grupo": "A",
+    "estado": "Aprobado"
+  },
+  {
+    "codigo": "2022109",
+    "identificacion": "109824532",
+    "nombre": "Laura Gómez Vélez",
+    "grado": 8,
+    "grupo": "B",
+    "estado": "Reprobado"
+  },
+  {
+    "codigo": "2022110",
+    "identificacion": "108824520",
+    "nombre": "Mateo Castro Bedoya",
+    "grado": 8,
+    "grupo": "C",
+    "estado": "En curso"
+  }
+]
